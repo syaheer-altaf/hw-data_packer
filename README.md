@@ -1,7 +1,5 @@
 # Short String Packer
 > **Name:** Syaheer Altaf (阿爾塔夫)  
-> **Student ID:** 12345678
-
 *Disclaimer: All Ruby code in this repository has passed `rubocop` formatting checks. Any suggested offenses were corrected immediately.*
 
 `pack(str)` accepts a string composed solely of the 26 lowercase letters of the alphabet and returns a compressed integer representation of that string. For simplicity, error handling for invalid inputs is not implemented. The complementary method, `unpack(packed)`, reverses the process.
